@@ -1,9 +1,13 @@
-import pandas
-import numpy as np
 import py_compile
+
+import numpy as np
 
 py_compile.compile(r'pandas.py')
 
+print("activity")
+print("activity")
+print("activity")
+print("activity")
 print("activity")
 
 arr1 = np.arange(10)
