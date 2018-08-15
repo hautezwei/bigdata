@@ -5,10 +5,11 @@ import numpy as np
 py_compile.compile(r'pandas.py')
 
 print("activity")
-print("activity")
-print("activity")
-print("activity")
-print("activity")
+
+
+def ptrr():
+    pass
+
 
 arr1 = np.arange(10)
 
